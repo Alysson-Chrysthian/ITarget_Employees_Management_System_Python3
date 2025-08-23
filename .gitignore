@@ -1,3 +1,5 @@
-.venv
+*venv
 .data
 *secrets.toml
+__pycache__
+*.pyc
